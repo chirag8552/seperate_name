@@ -1,0 +1,19 @@
+Requirement :
+
+Seperate names using '<->' delimeter
+e.g. 1
+ Enter name : Chirag<->Gokani
+First Name : Chirag
+Last Name  : Gokani
+2
+ Enter name : Chirag Gokani
+First Name : Chirag Gokani
+Last Name  :
+3
+ Enter name : Chirag Gokani<->abcd<->wxyz
+First Name : Chirag Gokani
+Last Name  : abcd<->wxyz
+4
+ Enter name : <->Chirag Gokani
+First Name :
+Last Name  : Chirag Gokani
